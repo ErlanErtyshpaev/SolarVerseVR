@@ -57,4 +57,8 @@
 
     откройте UI-панель,
 
+
     задайте вопрос → получите ответ AI-гидa.
+
+    Demo APK: см. раздел Releases (v1.0)
+    https://github.com/ErlanErtyshpaev/SolarVerseVR/releases/tag/v1.0
