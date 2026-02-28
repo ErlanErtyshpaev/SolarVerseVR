@@ -1,4 +1,6 @@
 # SolarVerse VR — AI-гид по Солнечной системе
+            Demo APK: см. раздел Releases (v1.0) https://github.com/ErlanErtyshpaev/SolarVerseVR/releases/tag/v1.0
+            Ссылка на обзор программы: https://youtu.be/mP01naI237g
 
 **SolarVerse VR** — VR-симулятор Солнечной системы для **Meta Quest**, где пользователь перемещается между планетами и изучает их в интерактивном режиме. При выборе планеты открывается UI-панель, в которой можно вести диалог с **AI-гидом**: задавать вопросы, получать объяснения и (опционально) запускать мини-задания/квизы.
 
@@ -59,8 +61,3 @@
 
 
     задайте вопрос → получите ответ AI-гидa.
-
-    Demo APK: см. раздел Releases (v1.0)
-    https://github.com/ErlanErtyshpaev/SolarVerseVR/releases/tag/v1.0
-
-Ссылка на обзор программы: https://youtu.be/mP01naI237g
