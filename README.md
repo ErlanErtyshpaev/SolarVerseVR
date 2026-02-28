@@ -62,3 +62,5 @@
 
     Demo APK: см. раздел Releases (v1.0)
     https://github.com/ErlanErtyshpaev/SolarVerseVR/releases/tag/v1.0
+
+Ссылка на обзор программы: https://youtu.be/mP01naI237g
